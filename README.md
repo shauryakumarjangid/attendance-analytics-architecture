@@ -5,7 +5,6 @@ A high-integrity, data-engineered attendance management and analytical pipeline 
 ---
 
 ## 🌐 Live System Architecture Access
-* **Production Endpoint:** https://attend-hub.vercel.app/login
 * *Note: To ensure data infrastructure integrity, public registration pipelines are disabled. Architectural auditing access (Student, Faculty, or Administrative credentials) is restricted. Please request transient credentials via a LinkedIn DM.*
 
 ---
